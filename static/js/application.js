@@ -1,0 +1,1 @@
+function getSystemURL(){var url="http://154.23.185.4:8081/server-manager";console.log("url:",url);return url;}
